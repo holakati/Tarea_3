@@ -3,7 +3,9 @@ Creación desayuno
 =================
 
 Acción 1: Cortar naranja
+
 Acción 2: Preparar jugo de naranja 
+
 Acción 3: Cortar palta 
 Acción 4: Moler palta 
 Acción 5: Preparar masa de panqueques
